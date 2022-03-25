@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngai9112&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngai9112&show_icons=true&theme=codeSTACKr&show_icons=True)
 
 <!--
 **youngai1112/youngai1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
